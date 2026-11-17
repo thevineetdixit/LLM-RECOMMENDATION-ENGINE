@@ -1,0 +1,29 @@
+:root{color-scheme:dark;--ink:#e9eff7;--muted:#a3b0be;--line:#2a3846;--white:#121b24;--navy:#14283d;--blue:#3974f5;--blue2:#1b2c48;--mint:#d8f477;background:#0b1117;color:#e9eff7}
+html,body,#root{min-height:100%;background:#0b1117;color:#e9eff7}
+body{color:#e9eff7}
+.product{background:#0b1117;color:#e9eff7}
+.topbar,.stepper{background:#101820;border-color:#263442}
+.brand{color:#edf3fb}.brand-mark{background:#203a58;color:#d8f477}.brand-accent{color:#72a0ff}
+.catalog-status{color:#a6b4c3}.catalog-status b{background:#1c2935;color:#d7e2ed}.catalog-status i{background:#e1ae4e}.catalog-status.is-live i{background:#73cf9a}
+.topbar-divider{border-color:#314150}.help-link{color:#afbdcb}.help-link:hover{color:#86aaff}
+.step-tab{color:#8291a0}.step-tab.current{color:#eef4fc}.step-tab.current .step-num{background:#3974f5;border-color:#3974f5;color:#fff}.step-tab.done{color:#c2e678}.step-tab.done .step-num{background:#28371f;border-color:#516a37;color:#d8f477}.step-num{border-color:#3b4a58}.step-tab:not(:last-child):after{background:#5d6b78}
+.wizard-page{color:#e9eff7}.eyebrow{color:#9bb8ef}.eyebrow i{border-color:#d8f477}.page-intro h1{color:#eff4fa}.page-intro h1 em{color:#7ca3ff}.page-intro p{color:#a8b4c1}
+.wizard-panel,.monthly-card,.comparison-section,.side-result,.no-match{background:#111b25;border-color:#2a3948;box-shadow:0 12px 38px #0003}
+.field-label,.subhead b{color:#e4ebf4}.field-label small,.subhead small{color:#9ba9b7}
+.wizard-panel textarea{background:#0c141c;border-color:#30404e;color:#edf3fb}.wizard-panel textarea:focus{border-color:#6591fa;box-shadow:0 0 0 3px #3974f526}.wizard-panel textarea::placeholder{color:#788897}
+.prompt-meta{color:#9aa8b6}.starter-button{background:#15212c;border-color:#344554;color:#d2dce7}.starter-button:hover{background:#1a2b3c;border-color:#6d91d7;color:#a9c5ff}.starter-button svg{color:#86aaff}
+.task-button{background:#141f29;border-color:#344452;color:#c2cfdb}.task-button:hover{border-color:#6c91dc;color:#e6efff}.task-button.selected{background:#d8f477;border-color:#d8f477;color:#162217;font-weight:700}
+.panel-footer,.choice-section{border-color:#293744}.privacy-hint,.privacy-footnote{color:#9ba9b7}.privacy-hint svg{color:#9bc879}
+.btn-dark,.btn-light{background:#17232e;border-color:#3a4b5b;color:#dce6f0}.btn-dark:hover,.btn-light:hover{background:#202f3d;border-color:#637b91}.btn-primary{background:#3974f5;border-color:#3974f5;color:white;box-shadow:0 3px 12px #265ed53b}.btn-primary:hover{background:#5286ff;border-color:#5286ff}.btn:focus-visible,.step-tab:focus-visible,.starter-button:focus-visible,.task-button:focus-visible,.option-card:focus-visible,.volume-choices button:focus-visible,.back-link:focus-visible{outline:2px solid #d8f477;outline-offset:3px}
+.back-link{color:#aebccc}.back-link:hover{color:#a8c2ff}.section-number{background:#1c2d49;color:#a6c2ff}
+.section-heading h2{color:#ebf1f8}.section-heading p{color:#9aa8b6}
+.option-card{background:#141f29;border-color:#334351;color:#dce5ee}.option-card:hover{background:#192735;border-color:#6687c4;box-shadow:0 5px 16px #0002}.option-card.selected{background:#172944;border:1px solid #6290ff;box-shadow:inset 0 0 0 1px #6290ff25}.option-icon{background:#203657;color:#a9c5ff}.option-copy>b{color:#edf3fb}.option-copy>small{color:#a4b1be}.selected-check{background:#d8f477;color:#182219}.option-badge{color:#d8f477}
+.custom-budget{color:#aab8c5}.custom-budget>span,.custom-budget input,.volume-custom input{background:#0c141c;border-color:#394a59;color:#edf3fb}.custom-budget input::placeholder{color:#738291}.quiet-summary{color:#a6b2bf}
+.best-card{background:#14283d;border:1px solid #2d4560;color:#f3f7fc}.best-card:after{border-color:#ffffff13;box-shadow:0 0 0 24px #ffffff06,0 0 0 50px #ffffff03}.best-kicker{color:#d8f477}.best-left p,.best-cost span{color:#b8c7d6}.best-tags span{border-color:#536779;color:#dbe5ef}.best-cost{border-color:#42596f}.best-cost small{color:#aebdca}.best-cost strong{color:#d8f477}
+.side-result{border-color:#2b3a48}.side-icon.cheap{background:#1c3329;color:#93d5a5}.side-icon.speed{background:#382d1a;color:#f0c36f}.side-result small{color:#a5b2bf}.side-result b{color:#e7edf5}.side-result span:last-child{color:#a2afbd}
+.monthly-card{border-color:#2b3947}.monthly-title>div:first-child>small,.comparison-heading small{color:#9bb8ef}.monthly-title h2,.comparison-heading h2{color:#e9f0f8}.volume-choices{background:#0b131b}.volume-choices button{color:#a6b4c2}.volume-choices button.active{background:#263a55;color:#dbe6ff;box-shadow:0 1px 5px #0005}.monthly-metrics{border-color:#2d3b48}.monthly-metrics>div{border-color:#2d3b48}.monthly-metrics small{color:#9eacb9}.monthly-metrics b{color:#e5edf6}.monthly-metrics i{color:#9caab7}.monthly-metrics .savings b{color:#d8f477}
+.comparison-section{border-color:#2b3947}.sort-info{color:#a5b4c3}.sort-info:hover{color:#b8ceff}.compare-header{background:#1b2936;color:#aab7c4}.compare-row{border-color:#263541}.compare-row.chosen{background:#15273c}.compare-model b{color:#e2eaf3}.compare-model small{color:#a0adba}.compare-fit i{background:#2a3946}.compare-fit i b{background:#77a0ff}.compare-fit>b,.compare-score{color:#a9c5ff}.compare-cost{color:#dce6f0}.compare-cost small,.compare-score small{color:#9ba9b7}.more-models{color:#a9c5ff}.more-models:hover{color:#d8f477}
+.score-note{background:#272416;border-color:#4d4325;color:#e4cb86}.score-note p{color:#d3c79e}.no-match{color:#aab7c4}.no-match h2{color:#eff4fa}.no-match p{color:#a9b6c3}
+.notice{color:#ffb3a7;background:#351f20;border-color:#603233}.product-footer{border-color:#2a3946;color:#98a7b5}.product-footer i{color:#69798a}
+input{color-scheme:dark}
+@media(max-width:760px){.product-footer{border-color:#2a3946}}

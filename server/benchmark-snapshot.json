@@ -1,0 +1,16 @@
+{
+  "version": "prototype-priors-2026-11-10",
+  "status": "illustrative",
+  "note": "Illustrative seed priors for prototype behavior only. These are not current leaderboard results and must be replaced with a reproducible, dated evaluation before production use.",
+  "defaults": { "coding": 60, "reasoning": 60, "math": 60, "writing": 60, "instruction": 60, "translation": 60, "speed": 60 },
+  "families": {
+    "anthropic": { "coding": 82, "reasoning": 84, "math": 78, "writing": 88, "instruction": 87, "translation": 84, "speed": 62 },
+    "openai": { "coding": 84, "reasoning": 85, "math": 85, "writing": 84, "instruction": 86, "translation": 80, "speed": 70 },
+    "google": { "coding": 79, "reasoning": 82, "math": 84, "writing": 81, "instruction": 83, "translation": 85, "speed": 76 },
+    "deepseek": { "coding": 82, "reasoning": 80, "math": 84, "writing": 73, "instruction": 76, "translation": 72, "speed": 78 },
+    "meta-llama": { "coding": 76, "reasoning": 73, "math": 75, "writing": 75, "instruction": 77, "translation": 72, "speed": 77 },
+    "mistralai": { "coding": 76, "reasoning": 74, "math": 73, "writing": 78, "instruction": 77, "translation": 80, "speed": 79 },
+    "qwen": { "coding": 80, "reasoning": 78, "math": 83, "writing": 75, "instruction": 75, "translation": 78, "speed": 74 },
+    "nvidia": { "coding": 77, "reasoning": 76, "math": 76, "writing": 72, "instruction": 74, "translation": 70, "speed": 80 }
+  }
+}
